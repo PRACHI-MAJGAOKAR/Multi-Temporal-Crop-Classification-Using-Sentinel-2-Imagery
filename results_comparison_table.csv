@@ -1,4 +1,0 @@
-Model,Accuracy,Macro F1,F1 (non-cropland),F1 (cropland),N test patches
-UNet (ResNet18 encoder),0.8771,0.8768,0.8711,0.8825,2107
-"ViT Foundation Model (SSL4EO-S12 MAE, SatMAE substitute)",0.8714,0.8713,0.8689,0.8738,2107
-Random Forest (hand-crafted features),0.8671,0.8669,0.8617,0.8721,2107
